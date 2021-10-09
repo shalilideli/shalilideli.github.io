@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>傻丽丽的哩</title>
+  
+  <subtitle>傻丽丽的窝</subtitle>
+  <link href="https://shalilideli.github.io/atom.xml" rel="self"/>
+  
+  <link href="https://shalilideli.github.io/"/>
+  <updated>2021-10-09T06:53:27.808Z</updated>
+  <id>https://shalilideli.github.io/</id>
+  
+  <author>
+    <name>傻丽丽本丽</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>hexo发生error：spawn failed错误的解决方法</title>
+    <link href="https://shalilideli.github.io/2021/10/09/hexo-fa-sheng-error-spawn-failed-cuo-wu-de-jie-jue-fang-fa/"/>
+    <id>https://shalilideli.github.io/2021/10/09/hexo-fa-sheng-error-spawn-failed-cuo-wu-de-jie-jue-fang-fa/</id>
+    <published>2021-10-09T06:50:49.000Z</published>
+    <updated>2021-10-09T06:53:27.808Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;ol&gt;
+&lt;li&gt;删除.deploy_git文件夹;&lt;/li&gt;
+&lt;li&gt;输入git config –global core.autocrlf false&lt;/li&gt;
+&lt;li&gt;然后，依次执行：&lt;br&gt;hexo clean&lt;br&gt;hexo g&lt;br&gt;hexo</summary>
+        
+      
+    
+    
+    
+    <category term="hexo发生error：spawn failed错误的解决方法" scheme="https://shalilideli.github.io/categories/hexo%E5%8F%91%E7%94%9Ferror%EF%BC%9Aspawn-failed%E9%94%99%E8%AF%AF%E7%9A%84%E8%A7%A3%E5%86%B3%E6%96%B9%E6%B3%95/"/>
+    
+    <category term="教程篇" scheme="https://shalilideli.github.io/categories/hexo%E5%8F%91%E7%94%9Ferror%EF%BC%9Aspawn-failed%E9%94%99%E8%AF%AF%E7%9A%84%E8%A7%A3%E5%86%B3%E6%96%B9%E6%B3%95/%E6%95%99%E7%A8%8B%E7%AF%87/"/>
+    
+    
+    <category term="教程" scheme="https://shalilideli.github.io/tags/%E6%95%99%E7%A8%8B/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>hexo博客操作</title>
+    <link href="https://shalilideli.github.io/2021/10/09/hexo-bo-ke-cao-zuo/"/>
+    <id>https://shalilideli.github.io/2021/10/09/hexo-bo-ke-cao-zuo/</id>
+    <published>2021-10-09T06:30:29.000Z</published>
+    <updated>2021-10-09T06:31:24.253Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;编写文章&quot;&gt;&lt;a href=&quot;#编写文章&quot; class=&quot;headerlink&quot; title=&quot;编写文章&quot;&gt;&lt;/a&gt;编写文章&lt;/h1&gt;&lt;p&gt;hexo new</summary>
+        
+      
+    
+    
+    
+    <category term="hexo博客操作" scheme="https://shalilideli.github.io/categories/hexo%E5%8D%9A%E5%AE%A2%E6%93%8D%E4%BD%9C/"/>
+    
+    <category term="教程篇" scheme="https://shalilideli.github.io/categories/hexo%E5%8D%9A%E5%AE%A2%E6%93%8D%E4%BD%9C/%E6%95%99%E7%A8%8B%E7%AF%87/"/>
+    
+    
+    <category term="教程" scheme="https://shalilideli.github.io/tags/%E6%95%99%E7%A8%8B/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>博客hexo</title>
+    <link href="https://shalilideli.github.io/2021/10/09/bo-ke-hexo/"/>
+    <id>https://shalilideli.github.io/2021/10/09/bo-ke-hexo/</id>
+    <published>2021-10-09T06:30:13.000Z</published>
+    <updated>2021-10-09T06:32:03.041Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;简直神器！一键生成靓丽的博客网站，真香！&quot;&gt;&lt;a href=&quot;#简直神器！一键生成靓丽的博客网站，真香！&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="博客hexo" scheme="https://shalilideli.github.io/categories/%E5%8D%9A%E5%AE%A2hexo/"/>
+    
+    <category term="教程篇" scheme="https://shalilideli.github.io/categories/%E5%8D%9A%E5%AE%A2hexo/%E6%95%99%E7%A8%8B%E7%AF%87/"/>
+    
+    
+    <category term="教程" scheme="https://shalilideli.github.io/tags/%E6%95%99%E7%A8%8B/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>傻丽丽本丽</title>
+    <link href="https://shalilideli.github.io/2021/09/23/sha-li-li-ben-li/"/>
+    <id>https://shalilideli.github.io/2021/09/23/sha-li-li-ben-li/</id>
+    <published>2021-09-23T03:31:09.000Z</published>
+    <updated>2021-09-23T03:40:11.076Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;何为傻丽丽&quot;&gt;&lt;a href=&quot;#何为傻丽丽&quot; class=&quot;headerlink&quot; title=&quot;何为傻丽丽&quot;&gt;&lt;/a&gt;何为傻丽丽&lt;/h1&gt;&lt;p&gt; </summary>
+        
+      
+    
+    
+    
+    <category term="傻丽丽本丽" scheme="https://shalilideli.github.io/categories/%E5%82%BB%E4%B8%BD%E4%B8%BD%E6%9C%AC%E4%B8%BD/"/>
+    
+    <category term="本丽篇" scheme="https://shalilideli.github.io/categories/%E5%82%BB%E4%B8%BD%E4%B8%BD%E6%9C%AC%E4%B8%BD/%E6%9C%AC%E4%B8%BD%E7%AF%87/"/>
+    
+    
+    <category term="傻丽" scheme="https://shalilideli.github.io/tags/%E5%82%BB%E4%B8%BD/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>编辑页面上的任何文本</title>
+    <link href="https://shalilideli.github.io/2021/09/23/bian-ji-ye-mian-shang-de-ren-he-wen-ben/"/>
+    <id>https://shalilideli.github.io/2021/09/23/bian-ji-ye-mian-shang-de-ren-he-wen-ben/</id>
+    <published>2021-09-23T03:11:08.000Z</published>
+    <updated>2021-09-23T03:11:51.918Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;4、编辑页面上的任何文本&lt;br&gt;在控制台输入document.body.contentEditable=”true”或者document.designMode =</summary>
+        
+      
+    
+    
+    
+    <category term="Linux安装nginx" scheme="https://shalilideli.github.io/categories/Linux%E5%AE%89%E8%A3%85nginx/"/>
+    
+    <category term="教程篇" scheme="https://shalilideli.github.io/categories/Linux%E5%AE%89%E8%A3%85nginx/%E6%95%99%E7%A8%8B%E7%AF%87/"/>
+    
+    
+    <category term="教程" scheme="https://shalilideli.github.io/tags/%E6%95%99%E7%A8%8B/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>linux配置nginx</title>
+    <link href="https://shalilideli.github.io/2021/09/23/linux-pei-zhi-nginx/"/>
+    <id>https://shalilideli.github.io/2021/09/23/linux-pei-zhi-nginx/</id>
+    <published>2021-09-23T03:08:31.000Z</published>
+    <updated>2021-09-23T03:11:31.565Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;linux下安装nginx&quot;&gt;&lt;a href=&quot;#linux下安装nginx&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="Linux安装nginx" scheme="https://shalilideli.github.io/categories/Linux%E5%AE%89%E8%A3%85nginx/"/>
+    
+    <category term="教程篇" scheme="https://shalilideli.github.io/categories/Linux%E5%AE%89%E8%A3%85nginx/%E6%95%99%E7%A8%8B%E7%AF%87/"/>
+    
+    
+    <category term="教程" scheme="https://shalilideli.github.io/tags/%E6%95%99%E7%A8%8B/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>linux配置nodejs</title>
+    <link href="https://shalilideli.github.io/2021/09/23/linux-pei-zhi-nodejs/"/>
+    <id>https://shalilideli.github.io/2021/09/23/linux-pei-zhi-nodejs/</id>
+    <published>2021-09-23T03:07:12.000Z</published>
+    <updated>2021-09-23T03:07:55.453Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;Linux系统安装Nodejs&quot;&gt;&lt;a href=&quot;#Linux系统安装Nodejs&quot; class=&quot;headerlink&quot; title=&quot;Linux系统安装Nodejs&quot;&gt;&lt;/a&gt;Linux系统安装Nodejs&lt;/h1&gt;&lt;h3</summary>
+        
+      
+    
+    
+    
+    <category term="Linux安装nodejs" scheme="https://shalilideli.github.io/categories/Linux%E5%AE%89%E8%A3%85nodejs/"/>
+    
+    <category term="教程篇" scheme="https://shalilideli.github.io/categories/Linux%E5%AE%89%E8%A3%85nodejs/%E6%95%99%E7%A8%8B%E7%AF%87/"/>
+    
+    
+    <category term="教程" scheme="https://shalilideli.github.io/tags/%E6%95%99%E7%A8%8B/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>linux配置jre</title>
+    <link href="https://shalilideli.github.io/2021/09/23/linux-pei-zhi-jre/"/>
+    <id>https://shalilideli.github.io/2021/09/23/linux-pei-zhi-jre/</id>
+    <published>2021-09-23T03:02:54.000Z</published>
+    <updated>2021-09-23T03:06:25.515Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;Linux下安装Java运行环境&quot;&gt;&lt;a href=&quot;#Linux下安装Java运行环境&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="Linux安装Jre" scheme="https://shalilideli.github.io/categories/Linux%E5%AE%89%E8%A3%85Jre/"/>
+    
+    <category term="教程篇" scheme="https://shalilideli.github.io/categories/Linux%E5%AE%89%E8%A3%85Jre/%E6%95%99%E7%A8%8B%E7%AF%87/"/>
+    
+    
+    <category term="教程" scheme="https://shalilideli.github.io/tags/%E6%95%99%E7%A8%8B/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>域名解析</title>
+    <link href="https://shalilideli.github.io/2021/09/23/yu-ming-jie-xi/"/>
+    <id>https://shalilideli.github.io/2021/09/23/yu-ming-jie-xi/</id>
+    <published>2021-09-23T02:28:25.000Z</published>
+    <updated>2021-09-23T03:05:47.225Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;域名申请完毕，需要将公网ip地址绑定到域名上&lt;/p&gt;
+&lt;h1 id=&quot;1-验证域名解析是否正常&quot;&gt;&lt;a href=&quot;#1-验证域名解析是否正常&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="域名解析" scheme="https://shalilideli.github.io/categories/%E5%9F%9F%E5%90%8D%E8%A7%A3%E6%9E%90/"/>
+    
+    <category term="教程篇" scheme="https://shalilideli.github.io/categories/%E5%9F%9F%E5%90%8D%E8%A7%A3%E6%9E%90/%E6%95%99%E7%A8%8B%E7%AF%87/"/>
+    
+    
+    <category term="教程" scheme="https://shalilideli.github.io/tags/%E6%95%99%E7%A8%8B/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://shalilideli.github.io/2021/09/17/hello-world/"/>
+    <id>https://shalilideli.github.io/2021/09/17/hello-world/</id>
+    <published>2021-09-17T03:53:39.921Z</published>
+    <updated>2021-09-17T03:53:39.921Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt;</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
